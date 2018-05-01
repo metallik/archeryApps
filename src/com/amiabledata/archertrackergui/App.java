@@ -235,7 +235,7 @@ public class App {
 
     private void showIndividualContestantQualification(int competition, int unit, int entrytype, int contestant) {
         IndividualContestantQualification d = cdl.get(competition).getAllIndividualEntry().get(entrytype).getQualificationState().getContestants(contestant);
-        ArrayList<IndividualQualificationScore> s = d.getAllScore();
+        final ArrayList<IndividualQualificationScore> s = d.getAllScore();
 
         TableModel dataModel = new AbstractTableModel() {
             public int getColumnCount() { return 10; }
@@ -243,6 +243,7 @@ public class App {
             public Object getValueAt(int row, int col) {
                 String n;
                 IndividualQualificationScore r = s.get(row);
+                int sc;
                 switch(col) {
                     case 0:
                         n = "" + r.getSetNumber();
@@ -253,7 +254,12 @@ public class App {
                     case 4:
                     case 5:
                     case 6:
-                        n = "" + r.getValue(col-1);
+                        sc = r.getValue(col-1);
+                        if (sc > 10) {
+                            n = "X";
+                        } else {
+                            n = "" + sc;
+                        }
                         break;
                     case 7:
                         n = "" + r.getSum();
@@ -308,7 +314,7 @@ public class App {
 
     private void showIndividualMatchSelection(int competition, int unit, int entrytype, int round, int match) {
         IndividualContestantMatches d = cdl.get(competition).getAllIndividualEntry().get(entrytype).getMatchState(round).getMatches(match);
-        ArrayList<IndividualMatchesScore> s = d.getAllScore();
+        final ArrayList<IndividualMatchesScore> s = d.getAllScore();
 
         TableModel dataModel = new AbstractTableModel() {
             public int getColumnCount() { return 11; }
@@ -316,6 +322,7 @@ public class App {
             public Object getValueAt(int row, int col) {
                 String n;
                 IndividualMatchesScore r = s.get(row);
+                int sc;
                 switch(col) {
                     case 0:
                         n = "" + r.getSetNumber();
@@ -323,7 +330,12 @@ public class App {
                     case 1:
                     case 2:
                     case 3:
-                        n = "" + r.getFirstContestantArrows(col-1);
+                        sc = r.getFirstContestantArrows(col-1);
+                        if (sc > 10) {
+                            n = "X";
+                        } else {
+                            n = "" + sc;
+                        }
                         break;
                     case 4:
                         n = "" + r.getFirstContestantAccumulativeSetPoints();
@@ -334,7 +346,12 @@ public class App {
                     case 6:
                     case 7:
                     case 8:
-                        n = "" + r.getSecondContestantArrows(col-6);
+                        sc = r.getSecondContestantArrows(col-6);
+                        if (sc > 10) {
+                            n = "X";
+                        } else {
+                            n = "" + sc;
+                        }
                         break;
                     case 9:
                         n = "" + r.getSecondContestantAccumulativeSetPoints();
