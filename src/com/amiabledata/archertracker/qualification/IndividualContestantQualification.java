@@ -7,18 +7,18 @@ import java.util.ArrayList;
 public class IndividualContestantQualification {
     private String Name;
     private Integer Ranking;
-    private ArrayList<IndividualQualificationScore> Score;
+    private ArrayList<IndividualQualificationScore> Scores;
 
     public IndividualContestantQualification() {
         this.Name = new String();
         this.Ranking = 0;
-        this.Score = new ArrayList<IndividualQualificationScore>();
+        this.Scores = new ArrayList<IndividualQualificationScore>();
     }
 
     public IndividualContestantQualification(IndividualContestantQualification value) {
         setName(value.getName());
         setRanking(value.getRanking());
-        setScore(value.getAllScore());
+        setScores(value.getAllScore());
     }
 
     public void setName(String value) {
@@ -37,20 +37,20 @@ public class IndividualContestantQualification {
         return this.Ranking;
     }
 
-    public void setScore(ArrayList<IndividualQualificationScore>value) {
-        this.Score = new ArrayList<IndividualQualificationScore>();
-        this.Score.addAll(value);
+    public void setScores(ArrayList<IndividualQualificationScore>value) {
+        this.Scores = new ArrayList<IndividualQualificationScore>();
+        this.Scores.addAll(value);
     }
 
     public void addScore(IndividualQualificationScore value) {
-        this.Score.add(value);
+        this.Scores.add(value);
     }
 
     public ArrayList<IndividualQualificationScore> getAllScore(){
-        return this.Score;
+        return this.Scores;
     }
 
     public IndividualQualificationScore getScore(Integer Index) {
-        return this.Score.get(Index);
+        return this.Scores.get(Index);
     }
 }

@@ -11,8 +11,8 @@ public class CompetitionData {
 	private String EndDate;
 	private String Location;
 	private Boolean EventFinished;
-	private ArrayList<IndividualRound> individualRoundEntry;
-	private ArrayList<TeamRound> teamRoundEntry;
+	private ArrayList<IndividualRound> IndividualRoundEntries;
+	private ArrayList<TeamRound> TeamRoundEntries;
 	private String Category;
 
 	public CompetitionData() {
@@ -21,8 +21,8 @@ public class CompetitionData {
 		setEndDate(new String());
 		setLocation(new String());
 		setEventFinished(null);
-		setIndividualRoundEntry(new ArrayList<IndividualRound>());
-		setTeamRoundEntry(new ArrayList<TeamRound>());
+		setIndividualRoundEntries(new ArrayList<IndividualRound>());
+		setTeamRoundEntries(new ArrayList<TeamRound>());
 		setCategory(new String());
 	}
 	public CompetitionData(CompetitionData item) {
@@ -31,8 +31,8 @@ public class CompetitionData {
 		setEndDate(item.getEndDate());
 		setLocation(item.getLocation());
 		setEventFinished(item.getEventFinished());
-		setIndividualRoundEntry(item.getAllIndividualEntry());
-		setTeamRoundEntry(item.getAllTeamEntry());
+		setIndividualRoundEntries(item.getAllIndividualEntry());
+		setTeamRoundEntries(item.getAllTeamEntry());
 		setCategory(item.getCategory());
 	}
 	public void setCompetitionName(String value) {
@@ -55,19 +55,19 @@ public class CompetitionData {
 		this.EventFinished = value;
 	}
 
-	public void setIndividualRoundEntry(ArrayList<IndividualRound>value) {
-		this.individualRoundEntry = new ArrayList<IndividualRound>();
-		this.individualRoundEntry.addAll(value);
+	public void setIndividualRoundEntries(ArrayList<IndividualRound>value) {
+		this.IndividualRoundEntries = new ArrayList<IndividualRound>();
+		this.IndividualRoundEntries.addAll(value);
 	}
 	public void addEntry(IndividualRound value) {
-		this.individualRoundEntry.add(value);
+		this.IndividualRoundEntries.add(value);
 	}
-	public void setTeamRoundEntry(ArrayList<TeamRound>value) {
-		this.teamRoundEntry = new ArrayList<TeamRound>();
-		this.teamRoundEntry.addAll(value);
+	public void setTeamRoundEntries(ArrayList<TeamRound>value) {
+		this.TeamRoundEntries = new ArrayList<TeamRound>();
+		this.TeamRoundEntries.addAll(value);
 	}
 	public void addEntry(TeamRound value) {
-		this.teamRoundEntry.add(value);
+		this.TeamRoundEntries.add(value);
 	}
 
 	public void setCategory(String value) {
@@ -95,19 +95,19 @@ public class CompetitionData {
 	}
 
 	public ArrayList<IndividualRound> getAllIndividualEntry(){
-		return this.individualRoundEntry;
+		return this.IndividualRoundEntries;
 	}
 
 	public IndividualRound getIndividualEntry(Integer Index) {
-		return this.individualRoundEntry.get(Index);
+		return this.IndividualRoundEntries.get(Index);
 	}
 
 	public ArrayList<TeamRound> getAllTeamEntry(){
-		return this.teamRoundEntry;
+		return this.TeamRoundEntries;
 	}
 
 	public TeamRound getTeamEntry(Integer Index) {
-		return this.teamRoundEntry.get(Index);
+		return this.TeamRoundEntries.get(Index);
 	}
 
 	public String getCategory() {

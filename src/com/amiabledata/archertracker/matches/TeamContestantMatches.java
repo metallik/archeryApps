@@ -9,14 +9,14 @@ public class TeamContestantMatches {
     private ArrayList<String> FirstTeamMembers;
     private String SecondTeamName;
     private ArrayList<String> SecondTeamMembers;
-    private ArrayList<TeamMatchesScore> Score;
+    private ArrayList<TeamMatchesScore> Scores;
 
     public TeamContestantMatches() {
         setFirstTeamName(new String());
         setFirstTeamMembers(new ArrayList<String>());
         setSecondTeamName(new String());
         setSecondTeamMembers(new ArrayList<String>());
-        setScore(new ArrayList<TeamMatchesScore>());
+        setScores(new ArrayList<TeamMatchesScore>());
     }
 
     public TeamContestantMatches(TeamContestantMatches value) {
@@ -24,7 +24,7 @@ public class TeamContestantMatches {
         setFirstTeamMembers(value.getAllFirstTeamMembers());
         setSecondTeamName(value.getSecondTeamName());
         setSecondTeamMembers(value.getAllSecondTeamMembers());
-        setScore(value.getAllScore());
+        setScores(value.getAllScore());
     }
 
     public void setFirstTeamName(String value) {
@@ -77,20 +77,20 @@ public class TeamContestantMatches {
         return this.SecondTeamMembers.get(Index);
     }
 
-    public void setScore(ArrayList<TeamMatchesScore> value) {
-        this.Score = new ArrayList<TeamMatchesScore>();
-        this.Score.addAll(value);
+    public void setScores(ArrayList<TeamMatchesScore> value) {
+        this.Scores = new ArrayList<TeamMatchesScore>();
+        this.Scores.addAll(value);
     }
 
     public void addScore(TeamMatchesScore value) {
-        this.Score.add(value);
+        this.Scores.add(value);
     }
 
     public ArrayList<TeamMatchesScore> getAllScore() {
-        return this.Score;
+        return this.Scores;
     }
 
     public TeamMatchesScore getScore(Integer Index) {
-        return this.Score.get(Index);
+        return this.Scores.get(Index);
     }
 }

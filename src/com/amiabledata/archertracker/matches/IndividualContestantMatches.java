@@ -7,18 +7,18 @@ import java.util.ArrayList;
 public class IndividualContestantMatches {
     private String FirstContestant;
     private String SecondContestant;
-    private ArrayList<IndividualMatchesScore> Score;
+    private ArrayList<IndividualMatchesScore> Scores;
 
     public IndividualContestantMatches(){
         this.FirstContestant = new String();
         this.SecondContestant = new String();
-        this.Score = new ArrayList<IndividualMatchesScore>();
+        this.Scores = new ArrayList<IndividualMatchesScore>();
     }
 
     public IndividualContestantMatches(IndividualContestantMatches value) {
         setFirstContestant(value.getFirstContestant());
         setSecondContestant(value.getSecondContestant());
-        setScore(value.getAllScore());
+        setScores(value.getAllScore());
     }
 
     public void setFirstContestant(String value) {
@@ -37,20 +37,20 @@ public class IndividualContestantMatches {
         return this.SecondContestant;
     }
 
-    public void setScore(ArrayList<IndividualMatchesScore> value) {
-        this.Score = new ArrayList<IndividualMatchesScore>();
-        this.Score.addAll(value);
+    public void setScores(ArrayList<IndividualMatchesScore> value) {
+        this.Scores = new ArrayList<IndividualMatchesScore>();
+        this.Scores.addAll(value);
     }
 
     public void addScore(IndividualMatchesScore value) {
-        this.Score.add(value);
+        this.Scores.add(value);
     }
 
     public ArrayList<IndividualMatchesScore> getAllScore() {
-        return this.Score;
+        return this.Scores;
     }
 
     public IndividualMatchesScore getScore(Integer Index) {
-        return this.Score.get(Index);
+        return this.Scores.get(Index);
     }
 }
