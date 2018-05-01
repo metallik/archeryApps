@@ -1,18 +1,19 @@
 package com.amiabledata.archertracker;
 
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
+import java.io.File;
+import java.io.FileNotFoundException;
 
 public class App {
     public static void main( String[] args ) {
-        ArcheryData Archery = new ArcheryData();
-        CompetitionData n = new CompetitionData();
+        ArcheryDataHelper Archery;
 
-        Gson gson = new GsonBuilder().setPrettyPrinting().create();
-        String json = gson.toJson(Archery);
-        System.out.println(json);
+        try {
+            Archery = new ArcheryDataHelper(new File("").getAbsolutePath() + "/data/archerydata.json");
+            System.out.print(Archery.getIndividualQualificationStageContestantSum(0,0,0,0));
+        } catch (FileNotFoundException err) {
+            System.out.println("File not found!");
+        }
 
-//      System.out.print(Archery.getIndividualQualificationStageContestantSum(0,0,0,0));
 // MainGUI g = new MainGUI();
 //    	g.setVisible(true);
     }

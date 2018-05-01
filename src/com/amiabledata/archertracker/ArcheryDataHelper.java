@@ -29,66 +29,35 @@ class ArcheryDataList {
 	}
 }
 
-public class ArcheryData{
-	private Gson gson;
+public class ArcheryDataHelper {
+	private Gson gson = new Gson();
 	private String path;
 	private ArcheryDataList data;
-	private String[][] ERROR = {{"[ERROR]=>FILE NOT FOUND. Code:[0][0]","[ERROR]=>PROBLEM IN CONVERTING JSON TO OBJECT. Code:[0][1]"},{"[ERROR]=>CANNOT CONVERT TO UNIVERSAL PATH. Code:[1][0]"}};
 
 	// BackEnd Start
 	private ArcheryDataList getData() {
 		return this.data;
 	}
 
-	public void printError(String value) {
-		System.err.println(value);
+	private void getJson(File f) throws FileNotFoundException {
+		this.data = gson.fromJson(new FileReader(f), ArcheryDataList.class);
 	}
-
-	private void getJson() throws FileNotFoundException {
-		this.data = gson.fromJson(new FileReader(this.getPath()), ArcheryDataList.class);
-	}
-
-	private void toUniversalPath(String path) {
-		try {
-			String result = path.replace("\\", "/");
-			setPath(result);
-		}catch(Exception e) {
-			printError(ERROR[1][0]);
-			printError(e.getMessage());
-		}
-	}	
 	// BackEnd End
 	
 	// FrontEnd Start
-	public ArcheryData() {
-		this.gson = new Gson();
-		toUniversalPath(new File("").getAbsolutePath() + "/data/archerydata.json");
-		try {
-			getJson();
-		}catch(FileNotFoundException e) {
-			printError(ERROR[0][0]);
-			printError(e.getMessage());
-		}
-		catch(Exception e) {
-			printError(ERROR[0][1]);
-			printError(e.getMessage());
-		}
+	public ArcheryDataHelper(String path) throws FileNotFoundException, NullPointerException {
+	    this(new File(path));
 	}
 
-	public ArcheryData(String path) {
-		gson = new Gson();
-		toUniversalPath(path);
-		try {
-			getJson();
-		}catch(FileNotFoundException e) {
-			printError(ERROR[0][0]);
-			printError(e.getMessage());
-		}
-		catch(Exception e) {
-			printError(ERROR[0][1]);
-			printError(e.getMessage());
-		}
-	}
+    public ArcheryDataHelper(File f) throws FileNotFoundException, NullPointerException {
+	    if (f == null) {
+	        throw new NullPointerException();
+        } else if (!f.isFile()) {
+	        throw new FileNotFoundException();
+        } else {
+            getJson(f);
+        }
+    }
 
 	public void setPath(String value) {
 		this.path = value;
