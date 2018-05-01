@@ -31,7 +31,7 @@ class ArcheryDataList {
 
 public class ArcheryDataHelper {
 	private Gson gson = new Gson();
-	private String path;
+	private File file;
 	private ArcheryDataList data;
 
 	// BackEnd Start
@@ -39,12 +39,16 @@ public class ArcheryDataHelper {
 		return this.data;
 	}
 
-	private void getJson(File f) throws FileNotFoundException {
-		this.data = gson.fromJson(new FileReader(f), ArcheryDataList.class);
+	private void getJson() throws FileNotFoundException {
+		this.data = gson.fromJson(new FileReader(file), ArcheryDataList.class);
 	}
 	// BackEnd End
 	
 	// FrontEnd Start
+    public ArcheryDataHelper() {
+	    data = new ArcheryDataList();
+    }
+
 	public ArcheryDataHelper(String path) throws FileNotFoundException, NullPointerException {
 	    this(new File(path));
 	}
@@ -55,16 +59,20 @@ public class ArcheryDataHelper {
         } else if (!f.isFile()) {
 	        throw new FileNotFoundException();
         } else {
-            getJson(f);
+	        setFile(f);
         }
+
+        getJson();
     }
 
-	public void setPath(String value) {
-		this.path = value;
+	public void setFile(File f) throws FileNotFoundException {
+		this.file = f;
+
+		getJson();
 	}
 
-	public String getPath() {
-		return this.path;
+	public File getFile() {
+		return this.file;
 	}
 
 	public void setCompetitionName(Integer Index, String value) {
