@@ -52,7 +52,7 @@
             <archive>
               <manifest>
                 <addClasspath>true</addClasspath>
-                <mainClass>com.amiable.archertracker.App</mainClass>
+                <mainClass>com.amiable.archertrackergui.App</mainClass>
               </manifest>
              </archive>
           </configuration>
