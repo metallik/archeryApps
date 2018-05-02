@@ -6,7 +6,7 @@
 		"EndDate": "March 18, 2018",
 		"Location": "Cancun Qroo Mexico, Mexico",
 		"EventFinished": true,
-		"IndividualEntry":[
+		"IndividualRoundEntries":[
 			{
 				"EntryType":"Recurve Men",
 				"QualificationState":{
@@ -15,7 +15,7 @@
 							{
 								"Name":"Jorge Ociel Nevarez Cardenas",
 								"Ranking":1,
-								"Score":[
+								"Scores":[
 									{
 										"SetNumber":1,
 										"value":[11,11,10,10,9,9],
@@ -105,7 +105,7 @@
 							{
 								"Name":"Carlos Rojas",
 								"Ranking":2,
-								"Score":[
+								"Scores":[
 									{
 										"SetNumber":1,
 										"value":[10,10,10,9,8,8],
@@ -195,7 +195,7 @@
 							{
 								"Name":"Adrian Puente",
 								"Ranking":3,
-								"Score":[
+								"Scores":[
 									{
 										"SetNumber":1,
 										"value":[10,9,9,8,8,8],
@@ -286,7 +286,7 @@
 							{
 								"Name":"Juan Carlos Stevens",
 								"Ranking":4,
-								"Score":[
+								"Scores":[
 									{
 										"SetNumber":1,
 										"value":[10,9,9,9,8,8],
@@ -376,7 +376,7 @@
 							{
 								"Name":"Hugo Franco",
 								"Ranking":5,
-								"Score":[
+								"Scores":[
 									{
 										"SetNumber":1,
 										"value":[11,9,9,9,8,8],
@@ -466,7 +466,7 @@
 							{
 								"Name": "John Holst",
 								"Ranking": 6,
-								"Score":[
+								"Scores":[
 									{
 										"SetNumber":1,
 										"value":[10,9,9,8,8,7],
@@ -557,7 +557,7 @@
 							{
 								"Name":"Angel David Alvarado Santin",
 								"Ranking":7,
-								"Score":[
+								"Scores":[
 									{
 										"SetNumber":1,
 										"value":[11,10,10,9,8,7],
@@ -647,7 +647,7 @@
 							{
 								"Name":"Oldair Zamora",
 								"Ranking":8,
-								"Score":[
+								"Scores":[
 									{
 										"SetNumber":1,
 										"value":[9,9,9,8,8,8],
@@ -737,7 +737,7 @@
 							{
 								"Name":"Diego Castro",
 								"Ranking":9,
-								"Score":[
+								"Scores":[
 									{
 										"SetNumber":1,
 										"value":[9,9,9,8,8,4],
@@ -827,7 +827,7 @@
 							{
 								"Name":"Thomas FlossBach",
 								"Ranking":10,
-								"Score":[
+								"Scores":[
 									{
 										"SetNumber":1,
 										"value":[10,10,9,9,8,8],
@@ -917,7 +917,7 @@
 							{
 								"Name":"Kevin Mather",
 								"Ranking":11,
-								"Score":[
+								"Scores":[
 									{
 										"SetNumber":1,
 										"value":[10,9,9,9,8,4],
@@ -1007,7 +1007,7 @@
 							{
 								"Name":"Ivan Gonzalez Tobias",
 								"Ranking":12,
-								"Score":[
+								"Scores":[
 									{
 										"SetNumber":1,
 										"value":[9,9,8,8,6,6],
@@ -1097,7 +1097,7 @@
 							{
 								"Name":"Adrian I Palma",
 								"Ranking":13,
-								"Score":[
+								"Scores":[
 									{
 										"SetNumber":1,
 										"value":[10,9,9,9,8,7],
@@ -1187,7 +1187,7 @@
 							{
 								"Name":"Lee Myeong-Gu",
 								"Ranking":14,
-								"Score":[
+								"Scores":[
 									{
 										"SetNumber":1,
 										"value":[10,9,9,8,8,7],
@@ -1278,7 +1278,7 @@
 							{
 								"Name":"Kevin Andres Lopez BarQuero",
 								"Ranking":15,
-								"Score":[
+								"Scores":[
 									{
 										"SetNumber":1,
 										"value":[11,11,10,9,9,9],
@@ -1368,7 +1368,7 @@
 							{
 								"Name":"Molina Efren",
 								"Ranking":16,
-								"Score":[
+								"Scores":[
 									{
 										"SetNumber":1,
 										"value":[10,9,9,7,5,3],
@@ -1458,7 +1458,7 @@
 							{
 								"Name":"Aburto Roberto",
 								"Ranking":17,
-								"Score":[
+								"Scores":[
 									{
 										"SetNumber":1,
 										"value":[9,7,6,6,6,4],
@@ -1549,7 +1549,7 @@
 							{
 								"Name":"Juan Ricardo Feindt Urrejola",
 								"Ranking":18,
-								"Score":[
+								"Scores":[
 									{
 										"SetNumber":1,
 										"value":[9,9,8,8,7,7],
@@ -1639,7 +1639,7 @@
 							{
 								"Name":"Armando Avila",
 								"Ranking":19,
-								"Score":[
+								"Scores":[
 									{
 										"SetNumber":1,
 										"value":[9,9,9,8,6,3],
@@ -1729,7 +1729,7 @@
 							{
 								"Name":"Rangel Ricardo",
 								"Ranking":20,
-								"Score":[
+								"Scores":[
 									{
 										"SetNumber":1,
 										"value":[7,5,4,4,3,3],
@@ -1819,7 +1819,7 @@
 							{
 								"Name":"Ramon Antonio Martinez Medina",
 								"Ranking":21,
-								"Score":[
+								"Scores":[
 									{
 										"SetNumber":1,
 										"value":[8,7,7,5,5,4],
@@ -1909,7 +1909,7 @@
 							{
 								"Name":"Garcia Gabriel",
 								"Ranking":22,
-								"Score":[
+								"Scores":[
 									{
 										"SetNumber":1,
 										"value":[9,9,6,6,4,3],
@@ -1999,7 +1999,7 @@
 							{
 								"Name":"Garduno Mario",
 								"Ranking":23,
-								"Score":[
+								"Scores":[
 									{
 										"SetNumber":1,
 										"value":[10,7,7,5,4,4],
@@ -2089,7 +2089,7 @@
 							{
 								"Name":"Avila Omar",
 								"Ranking":24,
-								"Score":[
+								"Scores":[
 									{
 										"SetNumber":1,
 										"value":[10,8,5,3,2,0],
@@ -2179,7 +2179,7 @@
 							{
 								"Name":"Diaz Jorge",
 								"Ranking":25,
-								"Score":[
+								"Scores":[
 									{
 										"SetNumber":1,
 										"value":[8,8,4,2,2,2],
@@ -2269,7 +2269,7 @@
 							{
 								"Name":"Gonzalez Jorge",
 								"Ranking":26,
-								"Score":[
+								"Scores":[
 									{
 										"SetNumber":1,
 										"value":[8,5,5,5,3,0],
@@ -2359,7 +2359,7 @@
 							{
 								"Name":"Moreno Daniel",
 								"Ranking":27,
-								"Score":[
+								"Scores":[
 									{
 										"SetNumber":1,
 										"value":[7,6,6,5,5,0],
@@ -2449,7 +2449,7 @@
 							{
 								"Name":"Cortes Jesus",
 								"Ranking":28,
-								"Score":[
+								"Scores":[
 									{
 										"SetNumber":1,
 										"value":[6,3,2,1,0,0],
@@ -2538,7 +2538,7 @@
 							}
 						]
 					},
-				"State":[
+				"MatchState":[
 					{
 						"Stage":"First Round",
 						"Matches":[
@@ -2548,48 +2548,48 @@
 								"Scores":[
 									{
 										"SetNumber":1,
-										"FirstContestant_Arrows":[8,7,5],
-										"FirstContestant_Accumulative_SetPoints":0,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[10,8,8],
-										"SecondContestant_Accumulative_SetPoints":2,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[8,7,5],
+										"firstContestantAccumulativeSetPoints":0,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[10,8,8],
+										"secondContestantAccumulativeSetPoints":2,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":2,
-										"FirstContestant_Arrows":[8,7,5],
-										"FirstContestant_Accumulative_SetPoints":0,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[9,8,6],
-										"SecondContestant_Accumulative_SetPoints":4,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[8,7,5],
+										"firstContestantAccumulativeSetPoints":0,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[9,8,6],
+										"secondContestantAccumulativeSetPoints":4,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":3,
-										"FirstContestant_Arrows":[10,7,6],
-										"FirstContestant_Accumulative_SetPoints":2,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[8,8,6],
-										"SecondContestant_Accumulative_SetPoints":4,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[10,7,6],
+										"firstContestantAccumulativeSetPoints":2,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[8,8,6],
+										"secondContestantAccumulativeSetPoints":4,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":4,
-										"FirstContestant_Arrows":[9,8,5],
-										"FirstContestant_Accumulative_SetPoints":4,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[9,6,6],
-										"SecondContestant_Accumulative_SetPoints":4,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[9,8,5],
+										"firstContestantAccumulativeSetPoints":4,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[9,6,6],
+										"secondContestantAccumulativeSetPoints":4,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":5,
-										"FirstContestant_Arrows":[9,7,6],
-										"FirstContestant_Accumulative_SetPoints":6,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[6,6,2],
-										"SecondContestant_Accumulative_SetPoints":4,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[9,7,6],
+										"firstContestantAccumulativeSetPoints":6,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[6,6,2],
+										"secondContestantAccumulativeSetPoints":4,
+										"secondContestantSetPoints":0
 									}
 								]
 							},
@@ -2599,30 +2599,30 @@
 								"Scores":[
 									{
 										"SetNumber":1,
-										"FirstContestant_Arrows":[10,10,8],
-										"FirstContestant_Accumulative_SetPoints":2,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[9,6,3],
-										"SecondContestant_Accumulative_SetPoints":0,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[10,10,8],
+										"firstContestantAccumulativeSetPoints":2,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[9,6,3],
+										"secondContestantAccumulativeSetPoints":0,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":2,
-										"FirstContestant_Arrows":[11,11,10],
-										"FirstContestant_Accumulative_SetPoints":4,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[7,6,3],
-										"SecondContestant_Accumulative_SetPoints":0,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[11,11,10],
+										"firstContestantAccumulativeSetPoints":4,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[7,6,3],
+										"secondContestantAccumulativeSetPoints":0,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":3,
-										"FirstContestant_Arrows":[9,9,8],
-										"FirstContestant_Accumulative_SetPoints":6,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[9,6,6],
-										"SecondContestant_Accumulative_SetPoints":0,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[9,9,8],
+										"firstContestantAccumulativeSetPoints":6,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[9,6,6],
+										"secondContestantAccumulativeSetPoints":0,
+										"secondContestantSetPoints":0
 									}
 								]
 							},
@@ -2632,30 +2632,30 @@
 								"Scores":[
 									{
 										"SetNumber":1,
-										"FirstContestant_Arrows":[10,9,5],
-										"FirstContestant_Accumulative_SetPoints":0,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[9,8,8],
-										"SecondContestant_Accumulative_SetPoints":2,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[10,9,5],
+										"firstContestantAccumulativeSetPoints":0,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[9,8,8],
+										"secondContestantAccumulativeSetPoints":2,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":2,
-										"FirstContestant_Arrows":[8,6,5],
-										"FirstContestant_Accumulative_SetPoints":0,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[10,10,9],
-										"SecondContestant_Accumulative_SetPoints":4,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[8,6,5],
+										"firstContestantAccumulativeSetPoints":0,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[10,10,9],
+										"secondContestantAccumulativeSetPoints":4,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":3,
-										"FirstContestant_Arrows":[9,9,4],
-										"FirstContestant_Accumulative_SetPoints":0,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[9,9,7],
-										"SecondContestant_Accumulative_SetPoints":6,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[9,9,4],
+										"firstContestantAccumulativeSetPoints":0,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[9,9,7],
+										"secondContestantAccumulativeSetPoints":6,
+										"secondContestantSetPoints":2
 									}
 								]
 							},
@@ -2665,30 +2665,30 @@
 								"Scores":[
 									{
 										"SetNumber":1,
-										"FirstContestant_Arrows":[10,10,9],
-										"FirstContestant_Accumulative_SetPoints":2,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[0,0,0],
-										"SecondContestant_Accumulative_SetPoints":0,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[10,10,9],
+										"firstContestantAccumulativeSetPoints":2,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[0,0,0],
+										"secondContestantAccumulativeSetPoints":0,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":2,
-										"FirstContestant_Arrows":[9,9,8],
-										"FirstContestant_Accumulative_SetPoints":2,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[6,3,0],
-										"SecondContestant_Accumulative_SetPoints":2,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[9,9,8],
+										"firstContestantAccumulativeSetPoints":2,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[6,3,0],
+										"secondContestantAccumulativeSetPoints":2,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":3,
-										"FirstContestant_Arrows":[9,9,9],
-										"FirstContestant_Accumulative_SetPoints":4,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[4,4,3],
-										"SecondContestant_Accumulative_SetPoints":2,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[9,9,9],
+										"firstContestantAccumulativeSetPoints":4,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[4,4,3],
+										"secondContestantAccumulativeSetPoints":2,
+										"secondContestantSetPoints":0
 									}
 								]
 							},
@@ -2698,30 +2698,30 @@
 								"Scores":[
 									{
 										"SetNumber":1,
-										"FirstContestant_Arrows":[11,9,8],
-										"FirstContestant_Accumulative_SetPoints":2,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[7,6,5],
-										"SecondContestant_Accumulative_SetPoints":0,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[11,9,8],
+										"firstContestantAccumulativeSetPoints":2,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[7,6,5],
+										"secondContestantAccumulativeSetPoints":0,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":2,
-										"FirstContestant_Arrows":[8,7,6],
-										"FirstContestant_Accumulative_SetPoints":4,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[7,7,4],
-										"SecondContestant_Accumulative_SetPoints":0,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[8,7,6],
+										"firstContestantAccumulativeSetPoints":4,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[7,7,4],
+										"secondContestantAccumulativeSetPoints":0,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":3,
-										"FirstContestant_Arrows":[10,8,8],
-										"FirstContestant_Accumulative_SetPoints":6,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[10,5,4],
-										"SecondContestant_Accumulative_SetPoints":0,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[10,8,8],
+										"firstContestantAccumulativeSetPoints":6,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[10,5,4],
+										"secondContestantAccumulativeSetPoints":0,
+										"secondContestantSetPoints":0
 									}
 								]
 							},
@@ -2731,39 +2731,39 @@
 								"Scores":[
 									{
 										"SetNumber":1,
-										"FirstContestant_Arrows":[8,6,5],
-										"FirstContestant_Accumulative_SetPoints":0,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[9,9,6],
-										"SecondContestant_Accumulative_SetPoints":2,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[8,6,5],
+										"firstContestantAccumulativeSetPoints":0,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[9,9,6],
+										"secondContestantAccumulativeSetPoints":2,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":2,
-										"FirstContestant_Arrows":[9,8,6],
-										"FirstContestant_Accumulative_SetPoints":0,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[10,9,9],
-										"SecondContestant_Accumulative_SetPoints":4,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[9,8,6],
+										"firstContestantAccumulativeSetPoints":0,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[10,9,9],
+										"secondContestantAccumulativeSetPoints":4,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":3,
-										"FirstContestant_Arrows":[9,9,9],
-										"FirstContestant_Accumulative_SetPoints":2,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[8,8,7],
-										"SecondContestant_Accumulative_SetPoints":4,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[9,9,9],
+										"firstContestantAccumulativeSetPoints":2,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[8,8,7],
+										"secondContestantAccumulativeSetPoints":4,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":4,
-										"FirstContestant_Arrows":[10,8,6],
-										"FirstContestant_Accumulative_SetPoints":2,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[9,9,7],
-										"SecondContestant_Accumulative_SetPoints":6,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[10,8,6],
+										"firstContestantAccumulativeSetPoints":2,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[9,9,7],
+										"secondContestantAccumulativeSetPoints":6,
+										"secondContestantSetPoints":2
 									}
 								]
 							},
@@ -2773,30 +2773,30 @@
 								"Scores":[
 									{
 										"SetNumber":1,
-										"FirstContestant_Arrows":[8,8,5],
-										"FirstContestant_Accumulative_SetPoints":2,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[6,6,4],
-										"SecondContestant_Accumulative_SetPoints":0,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[8,8,5],
+										"firstContestantAccumulativeSetPoints":2,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[6,6,4],
+										"secondContestantAccumulativeSetPoints":0,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":2,
-										"FirstContestant_Arrows":[9,8,7],
-										"FirstContestant_Accumulative_SetPoints":4,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[9,8,0],
-										"SecondContestant_Accumulative_SetPoints":0,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[9,8,7],
+										"firstContestantAccumulativeSetPoints":4,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[9,8,0],
+										"secondContestantAccumulativeSetPoints":0,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":3,
-										"FirstContestant_Arrows":[8,8,6],
-										"FirstContestant_Accumulative_SetPoints":6,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[8,5,0],
-										"SecondContestant_Accumulative_SetPoints":0,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[8,8,6],
+										"firstContestantAccumulativeSetPoints":6,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[8,5,0],
+										"secondContestantAccumulativeSetPoints":0,
+										"secondContestantSetPoints":0
 									}
 								]
 							},
@@ -2806,30 +2806,30 @@
 								"Scores":[
 									{
 										"SetNumber":1,
-										"FirstContestant_Arrows":[9,6,5],
-										"FirstContestant_Accumulative_SetPoints":0,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[9,9,8],
-										"SecondContestant_Accumulative_SetPoints":2,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[9,6,5],
+										"firstContestantAccumulativeSetPoints":0,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[9,9,8],
+										"secondContestantAccumulativeSetPoints":2,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":2,
-										"FirstContestant_Arrows":[9,7,4],
-										"FirstContestant_Accumulative_SetPoints":0,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[9,8,6],
-										"SecondContestant_Accumulative_SetPoints":4,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[9,7,4],
+										"firstContestantAccumulativeSetPoints":0,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[9,8,6],
+										"secondContestantAccumulativeSetPoints":4,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":3,
-										"FirstContestant_Arrows":[4,3,1],
-										"FirstContestant_Accumulative_SetPoints":2,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[9,9,9],
-										"SecondContestant_Accumulative_SetPoints":4,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[4,3,1],
+										"firstContestantAccumulativeSetPoints":2,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[9,9,9],
+										"secondContestantAccumulativeSetPoints":4,
+										"secondContestantSetPoints":0
 									}
 								]
 							},
@@ -2839,30 +2839,30 @@
 								"Scores":[
 									{
 										"SetNumber":1,
-										"FirstContestant_Arrows":[11,10,7],
-										"FirstContestant_Accumulative_SetPoints":2,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[7,7,2],
-										"SecondContestant_Accumulative_SetPoints":0,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[11,10,7],
+										"firstContestantAccumulativeSetPoints":2,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[7,7,2],
+										"secondContestantAccumulativeSetPoints":0,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":2,
-										"FirstContestant_Arrows":[9,8,7],
-										"FirstContestant_Accumulative_SetPoints":4,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[6,6,2],
-										"SecondContestant_Accumulative_SetPoints":0,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[9,8,7],
+										"firstContestantAccumulativeSetPoints":4,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[6,6,2],
+										"secondContestantAccumulativeSetPoints":0,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":3,
-										"FirstContestant_Arrows":[11,11,9],
-										"FirstContestant_Accumulative_SetPoints":6,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[10,8,5],
-										"SecondContestant_Accumulative_SetPoints":0,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[11,11,9],
+										"firstContestantAccumulativeSetPoints":6,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[10,8,5],
+										"secondContestantAccumulativeSetPoints":0,
+										"secondContestantSetPoints":0
 									}
 								]
 							},
@@ -2872,30 +2872,30 @@
 								"Scores":[
 									{
 										"SetNumber":1,
-										"FirstContestant_Arrows":[11,3,1],
-										"FirstContestant_Accumulative_SetPoints":0,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[11,9,8],
-										"SecondContestant_Accumulative_SetPoints":2,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[11,3,1],
+										"firstContestantAccumulativeSetPoints":0,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[11,9,8],
+										"secondContestantAccumulativeSetPoints":2,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":2,
-										"FirstContestant_Arrows":[9,8,1],
-										"FirstContestant_Accumulative_SetPoints":0,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[9,8,7],
-										"SecondContestant_Accumulative_SetPoints":4,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[9,8,1],
+										"firstContestantAccumulativeSetPoints":0,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[9,8,7],
+										"secondContestantAccumulativeSetPoints":4,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":3,
-										"FirstContestant_Arrows":[8,5,4],
-										"FirstContestant_Accumulative_SetPoints":0,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[11,9,9],
-										"SecondContestant_Accumulative_SetPoints":6,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[8,5,4],
+										"firstContestantAccumulativeSetPoints":0,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[11,9,9],
+										"secondContestantAccumulativeSetPoints":6,
+										"secondContestantSetPoints":2
 									}
 								]
 							},
@@ -2905,48 +2905,48 @@
 								"Scores":[
 									{
 										"SetNumber":1,
-										"FirstContestant_Arrows":[9,8,8],
-										"FirstContestant_Accumulative_SetPoints":2,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[9,7,7],
-										"SecondContestant_Accumulative_SetPoints":0,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[9,8,8],
+										"firstContestantAccumulativeSetPoints":2,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[9,7,7],
+										"secondContestantAccumulativeSetPoints":0,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":2,
-										"FirstContestant_Arrows":[9,8,6],
-										"FirstContestant_Accumulative_SetPoints":2,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[11,10,9],
-										"SecondContestant_Accumulative_SetPoints":2,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[9,8,6],
+										"firstContestantAccumulativeSetPoints":2,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[11,10,9],
+										"secondContestantAccumulativeSetPoints":2,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":3,
-										"FirstContestant_Arrows":[9,9,8],
-										"FirstContestant_Accumulative_SetPoints":4,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[9,7,7],
-										"SecondContestant_Accumulative_SetPoints":2,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[9,9,8],
+										"firstContestantAccumulativeSetPoints":4,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[9,7,7],
+										"secondContestantAccumulativeSetPoints":2,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":4,
-										"FirstContestant_Arrows":[8,7,5],
-										"FirstContestant_Accumulative_SetPoints":4,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[9,9,5],
-										"SecondContestant_Accumulative_SetPoints":4,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[8,7,5],
+										"firstContestantAccumulativeSetPoints":4,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[9,9,5],
+										"secondContestantAccumulativeSetPoints":4,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":5,
-										"FirstContestant_Arrows":[8,7,6],
-										"FirstContestant_Accumulative_SetPoints":4,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[9,9,8],
-										"SecondContestant_Accumulative_SetPoints":6,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[8,7,6],
+										"firstContestantAccumulativeSetPoints":4,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[9,9,8],
+										"secondContestantAccumulativeSetPoints":6,
+										"secondContestantSetPoints":2
 									}
 								]
 							}
@@ -2961,30 +2961,30 @@
 								"Scores":[
 									{
 										"SetNumber":1,
-										"FirstContestant_Arrows":[9,8,8],
-										"FirstContestant_Accumulative_SetPoints":2,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[9,7,5],
-										"SecondContestant_Accumulative_SetPoints":0,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[9,8,8],
+										"firstContestantAccumulativeSetPoints":2,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[9,7,5],
+										"secondContestantAccumulativeSetPoints":0,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":2,
-										"FirstContestant_Arrows":[11,10,9],
-										"FirstContestant_Accumulative_SetPoints":4,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[10,6,6],
-										"SecondContestant_Accumulative_SetPoints":0,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[11,10,9],
+										"firstContestantAccumulativeSetPoints":4,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[10,6,6],
+										"secondContestantAccumulativeSetPoints":0,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":3,
-										"FirstContestant_Arrows":[10,9,8],
-										"FirstContestant_Accumulative_SetPoints":6,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[10,6,4],
-										"SecondContestant_Accumulative_SetPoints":0,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[10,9,8],
+										"firstContestantAccumulativeSetPoints":6,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[10,6,4],
+										"secondContestantAccumulativeSetPoints":0,
+										"secondContestantSetPoints":0
 									}
 								]
 							},
@@ -2994,57 +2994,57 @@
 								"Scores":[
 									{
 										"SetNumber":1,
-										"FirstContestant_Arrows":[9,9,6],
-										"FirstContestant_Accumulative_SetPoints":0,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[11,11,10],
-										"SecondContestant_Accumulative_SetPoints":2,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[9,9,6],
+										"firstContestantAccumulativeSetPoints":0,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[11,11,10],
+										"secondContestantAccumulativeSetPoints":2,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":2,
-										"FirstContestant_Arrows":[9,9,8],
-										"FirstContestant_Accumulative_SetPoints":0,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[11,10,8],
-										"SecondContestant_Accumulative_SetPoints":4,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[9,9,8],
+										"firstContestantAccumulativeSetPoints":0,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[11,10,8],
+										"secondContestantAccumulativeSetPoints":4,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":3,
-										"FirstContestant_Arrows":[9,9,8],
-										"FirstContestant_Accumulative_SetPoints":2,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[9,9,6],
-										"SecondContestant_Accumulative_SetPoints":4,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[9,9,8],
+										"firstContestantAccumulativeSetPoints":2,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[9,9,6],
+										"secondContestantAccumulativeSetPoints":4,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":4,
-										"FirstContestant_Arrows":[10,9,7],
-										"FirstContestant_Accumulative_SetPoints":3,
-										"FirstContestant_SetPoints":1,
-										"SecondContestant_Arrows":[10,9,7],
-										"SecondContestant_Accumulative_SetPoints":5,
-										"SecondContestant_SetPoints":1
+										"firstContestantArrows":[10,9,7],
+										"firstContestantAccumulativeSetPoints":3,
+										"firstContestantSetPoints":1,
+										"secondContestantArrows":[10,9,7],
+										"secondContestantAccumulativeSetPoints":5,
+										"secondContestantSetPoints":1
 									},
 									{
 										"SetNumber":5,
-										"FirstContestant_Arrows":[10,9,9],
-										"FirstContestant_Accumulative_SetPoints":5,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[9,9,9],
-										"SecondContestant_Accumulative_SetPoints":5,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[10,9,9],
+										"firstContestantAccumulativeSetPoints":5,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[9,9,9],
+										"secondContestantAccumulativeSetPoints":5,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":6,
-										"FirstContestant_Arrows":[9],
-										"FirstContestant_Accumulative_SetPoints":5,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[9],
-										"SecondContestant_Accumulative_SetPoints":6,
-										"SecondContestant_SetPoints":1
+										"firstContestantArrows":[9],
+										"firstContestantAccumulativeSetPoints":5,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[9],
+										"secondContestantAccumulativeSetPoints":6,
+										"secondContestantSetPoints":1
 									}
 								]
 							},
@@ -3054,48 +3054,48 @@
 								"Scores":[
 									{
 										"SetNumber":1,
-										"FirstContestant_Arrows":[10,8,5],
-										"FirstContestant_Accumulative_SetPoints":0,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[10,8,7],
-										"SecondContestant_Accumulative_SetPoints":2,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[10,8,5],
+										"firstContestantAccumulativeSetPoints":0,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[10,8,7],
+										"secondContestantAccumulativeSetPoints":2,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":2,
-										"FirstContestant_Arrows":[10,10,8],
-										"FirstContestant_Accumulative_SetPoints":2,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[9,9,8],
-										"SecondContestant_Accumulative_SetPoints":2,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[10,10,8],
+										"firstContestantAccumulativeSetPoints":2,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[9,9,8],
+										"secondContestantAccumulativeSetPoints":2,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":3,
-										"FirstContestant_Arrows":[10,9,7],
-										"FirstContestant_Accumulative_SetPoints":3,
-										"FirstContestant_SetPoints":1,
-										"SecondContestant_Arrows":[10,9,7],
-										"SecondContestant_Accumulative_SetPoints":3,
-										"SecondContestant_SetPoints":1
+										"firstContestantArrows":[10,9,7],
+										"firstContestantAccumulativeSetPoints":3,
+										"firstContestantSetPoints":1,
+										"secondContestantArrows":[10,9,7],
+										"secondContestantAccumulativeSetPoints":3,
+										"secondContestantSetPoints":1
 									},
 									{
 										"SetNumber":4,
-										"FirstContestant_Arrows":[10,10,9],
-										"FirstContestant_Accumulative_SetPoints":5,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[10,8,6],
-										"SecondContestant_Accumulative_SetPoints":3,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[10,10,9],
+										"firstContestantAccumulativeSetPoints":5,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[10,8,6],
+										"secondContestantAccumulativeSetPoints":3,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":5,
-										"FirstContestant_Arrows":[10,9,8],
-										"FirstContestant_Accumulative_SetPoints":6,
-										"FirstContestant_SetPoints":1,
-										"SecondContestant_Arrows":[10,9,8],
-										"SecondContestant_Accumulative_SetPoints":4,
-										"SecondContestant_SetPoints":1
+										"firstContestantArrows":[10,9,8],
+										"firstContestantAccumulativeSetPoints":6,
+										"firstContestantSetPoints":1,
+										"secondContestantArrows":[10,9,8],
+										"secondContestantAccumulativeSetPoints":4,
+										"secondContestantSetPoints":1
 									}
 								]
 							},
@@ -3105,48 +3105,48 @@
 								"Scores":[
 									{
 										"SetNumber":1,
-										"FirstContestant_Arrows":[9,9,8],
-										"FirstContestant_Accumulative_SetPoints":1,
-										"FirstContestant_SetPoints":1,
-										"SecondContestant_Arrows":[9,9,8],
-										"SecondContestant_Accumulative_SetPoints":1,
-										"SecondContestant_SetPoints":1
+										"firstContestantArrows":[9,9,8],
+										"firstContestantAccumulativeSetPoints":1,
+										"firstContestantSetPoints":1,
+										"secondContestantArrows":[9,9,8],
+										"secondContestantAccumulativeSetPoints":1,
+										"secondContestantSetPoints":1
 									},
 									{
 										"SetNumber":2,
-										"FirstContestant_Arrows":[11,10,7],
-										"FirstContestant_Accumulative_SetPoints":3,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[9,9,7],
-										"SecondContestant_Accumulative_SetPoints":1,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[11,10,7],
+										"firstContestantAccumulativeSetPoints":3,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[9,9,7],
+										"secondContestantAccumulativeSetPoints":1,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":3,
-										"FirstContestant_Arrows":[10,8,8],
-										"FirstContestant_Accumulative_SetPoints":4,
-										"FirstContestant_SetPoints":1,
-										"SecondContestant_Arrows":[10,9,7],
-										"SecondContestant_Accumulative_SetPoints":2,
-										"SecondContestant_SetPoints":1
+										"firstContestantArrows":[10,8,8],
+										"firstContestantAccumulativeSetPoints":4,
+										"firstContestantSetPoints":1,
+										"secondContestantArrows":[10,9,7],
+										"secondContestantAccumulativeSetPoints":2,
+										"secondContestantSetPoints":1
 									},
 									{
 										"SetNumber":4,
-										"FirstContestant_Arrows":[9,8,8],
-										"FirstContestant_Accumulative_SetPoints":5,
-										"FirstContestant_SetPoints":1,
-										"SecondContestant_Arrows":[9,9,7],
-										"SecondContestant_Accumulative_SetPoints":3,
-										"SecondContestant_SetPoints":1
+										"firstContestantArrows":[9,8,8],
+										"firstContestantAccumulativeSetPoints":5,
+										"firstContestantSetPoints":1,
+										"secondContestantArrows":[9,9,7],
+										"secondContestantAccumulativeSetPoints":3,
+										"secondContestantSetPoints":1
 									},
 									{
 										"SetNumber":5,
-										"FirstContestant_Arrows":[10,9,9],
-										"FirstContestant_Accumulative_SetPoints":7,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[9,8,8],
-										"SecondContestant_Accumulative_SetPoints":3,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[10,9,9],
+										"firstContestantAccumulativeSetPoints":7,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[9,8,8],
+										"secondContestantAccumulativeSetPoints":3,
+										"secondContestantSetPoints":0
 									}
 								]
 							},
@@ -3156,39 +3156,39 @@
 								"Scores":[
 									{
 										"SetNumber":1,
-										"FirstContestant_Arrows":[9,8,8],
-										"FirstContestant_Accumulative_SetPoints":1,
-										"FirstContestant_SetPoints":1,
-										"SecondContestant_Arrows":[9,8,8],
-										"SecondContestant_Accumulative_SetPoints":1,
-										"SecondContestant_SetPoints":1
+										"firstContestantArrows":[9,8,8],
+										"firstContestantAccumulativeSetPoints":1,
+										"firstContestantSetPoints":1,
+										"secondContestantArrows":[9,8,8],
+										"secondContestantAccumulativeSetPoints":1,
+										"secondContestantSetPoints":1
 									},
 									{
 										"SetNumber":2,
-										"FirstContestant_Arrows":[9,8,8],
-										"FirstContestant_Accumulative_SetPoints":3,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[8,7,6],
-										"SecondContestant_Accumulative_SetPoints":1,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[9,8,8],
+										"firstContestantAccumulativeSetPoints":3,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[8,7,6],
+										"secondContestantAccumulativeSetPoints":1,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":3,
-										"FirstContestant_Arrows":[9,9,9],
-										"FirstContestant_Accumulative_SetPoints":5,
-										"FirstContestant_SetPoints":1,
-										"SecondContestant_Arrows":[9,9,6],
-										"SecondContestant_Accumulative_SetPoints":1,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[9,9,9],
+										"firstContestantAccumulativeSetPoints":5,
+										"firstContestantSetPoints":1,
+										"secondContestantArrows":[9,9,6],
+										"secondContestantAccumulativeSetPoints":1,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":4,
-										"FirstContestant_Arrows":[11,10,9],
-										"FirstContestant_Accumulative_SetPoints":7,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[9,8,2],
-										"SecondContestant_Accumulative_SetPoints":1,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[11,10,9],
+										"firstContestantAccumulativeSetPoints":7,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[9,8,2],
+										"secondContestantAccumulativeSetPoints":1,
+										"secondContestantSetPoints":0
 									}
 								]
 							},
@@ -3198,57 +3198,57 @@
 								"Scores":[
 									{
 										"SetNumber":1,
-										"FirstContestant_Arrows":[7,7,2],
-										"FirstContestant_Accumulative_SetPoints":0,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[10,9,6],
-										"SecondContestant_Accumulative_SetPoints":2,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[7,7,2],
+										"firstContestantAccumulativeSetPoints":0,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[10,9,6],
+										"secondContestantAccumulativeSetPoints":2,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":2,
-										"FirstContestant_Arrows":[10,9,8],
-										"FirstContestant_Accumulative_SetPoints":2,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[9,8,7],
-										"SecondContestant_Accumulative_SetPoints":2,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[10,9,8],
+										"firstContestantAccumulativeSetPoints":2,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[9,8,7],
+										"secondContestantAccumulativeSetPoints":2,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":3,
-										"FirstContestant_Arrows":[9,8,8],
-										"FirstContestant_Accumulative_SetPoints":3,
-										"FirstContestant_SetPoints":1,
-										"SecondContestant_Arrows":[9,8,8],
-										"SecondContestant_Accumulative_SetPoints":3,
-										"SecondContestant_SetPoints":1
+										"firstContestantArrows":[9,8,8],
+										"firstContestantAccumulativeSetPoints":3,
+										"firstContestantSetPoints":1,
+										"secondContestantArrows":[9,8,8],
+										"secondContestantAccumulativeSetPoints":3,
+										"secondContestantSetPoints":1
 									},
 									{
 										"SetNumber":4,
-										"FirstContestant_Arrows":[9,7,7],
-										"FirstContestant_Accumulative_SetPoints":3,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[10,9,8],
-										"SecondContestant_Accumulative_SetPoints":5,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[9,7,7],
+										"firstContestantAccumulativeSetPoints":3,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[10,9,8],
+										"secondContestantAccumulativeSetPoints":5,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":5,
-										"FirstContestant_Arrows":[10,9,9],
-										"FirstContestant_Accumulative_SetPoints":5,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[10,9,7],
-										"SecondContestant_Accumulative_SetPoints":5,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[10,9,9],
+										"firstContestantAccumulativeSetPoints":5,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[10,9,7],
+										"secondContestantAccumulativeSetPoints":5,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":6,
-										"FirstContestant_Arrows":[4],
-										"FirstContestant_Accumulative_SetPoints":5,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[8],
-										"SecondContestant_Accumulative_SetPoints":6,
-										"SecondContestant_SetPoints":1
+										"firstContestantArrows":[4],
+										"firstContestantAccumulativeSetPoints":5,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[8],
+										"secondContestantAccumulativeSetPoints":6,
+										"secondContestantSetPoints":1
 									}
 								]
 							},
@@ -3258,48 +3258,48 @@
 								"Scores":[
 									{
 										"SetNumber":1,
-										"FirstContestant_Arrows":[9,9,9],
-										"FirstContestant_Accumulative_SetPoints":2,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[9,9,8],
-										"SecondContestant_Accumulative_SetPoints":0,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[9,9,9],
+										"firstContestantAccumulativeSetPoints":2,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[9,9,8],
+										"secondContestantAccumulativeSetPoints":0,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":2,
-										"FirstContestant_Arrows":[9,8,8],
-										"FirstContestant_Accumulative_SetPoints":2,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[10,9,8],
-										"SecondContestant_Accumulative_SetPoints":2,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[9,8,8],
+										"firstContestantAccumulativeSetPoints":2,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[10,9,8],
+										"secondContestantAccumulativeSetPoints":2,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":3,
-										"FirstContestant_Arrows":[10,9,9],
-										"FirstContestant_Accumulative_SetPoints":3,
-										"FirstContestant_SetPoints":1,
-										"SecondContestant_Arrows":[11,9,9],
-										"SecondContestant_Accumulative_SetPoints":3,
-										"SecondContestant_SetPoints":1
+										"firstContestantArrows":[10,9,9],
+										"firstContestantAccumulativeSetPoints":3,
+										"firstContestantSetPoints":1,
+										"secondContestantArrows":[11,9,9],
+										"secondContestantAccumulativeSetPoints":3,
+										"secondContestantSetPoints":1
 									},
 									{
 										"SetNumber":4,
-										"FirstContestant_Arrows":[9,9,7],
-										"FirstContestant_Accumulative_SetPoints":3,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[9,9,8],
-										"SecondContestant_Accumulative_SetPoints":5,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[9,9,7],
+										"firstContestantAccumulativeSetPoints":3,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[9,9,8],
+										"secondContestantAccumulativeSetPoints":5,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":5,
-										"FirstContestant_Arrows":[9,7,6],
-										"FirstContestant_Accumulative_SetPoints":3,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[9,9,7],
-										"SecondContestant_Accumulative_SetPoints":7,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[9,7,6],
+										"firstContestantAccumulativeSetPoints":3,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[9,9,7],
+										"secondContestantAccumulativeSetPoints":7,
+										"secondContestantSetPoints":2
 									}
 								]
 							},
@@ -3309,30 +3309,30 @@
 								"Scores":[
 									{
 										"SetNumber":1,
-										"FirstContestant_Arrows":[8,7,6],
-										"FirstContestant_Accumulative_SetPoints":0,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[10,10,8],
-										"SecondContestant_Accumulative_SetPoints":2,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[8,7,6],
+										"firstContestantAccumulativeSetPoints":0,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[10,10,8],
+										"secondContestantAccumulativeSetPoints":2,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":2,
-										"FirstContestant_Arrows":[8,8,7],
-										"FirstContestant_Accumulative_SetPoints":0,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[11,11,8],
-										"SecondContestant_Accumulative_SetPoints":4,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[8,8,7],
+										"firstContestantAccumulativeSetPoints":0,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[11,11,8],
+										"secondContestantAccumulativeSetPoints":4,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":3,
-										"FirstContestant_Arrows":[9,9,7],
-										"FirstContestant_Accumulative_SetPoints":0,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[10,9,8],
-										"SecondContestant_Accumulative_SetPoints":6,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[9,9,7],
+										"firstContestantAccumulativeSetPoints":0,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[10,9,8],
+										"secondContestantAccumulativeSetPoints":6,
+										"secondContestantSetPoints":2
 									}
 								]
 							}
@@ -3347,39 +3347,39 @@
 								"Scores":[
 									{
 										"SetNumber":1,
-										"FirstContestant_Arrows":[11,8,7],
-										"FirstContestant_Accumulative_SetPoints":0,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[10,10,9],
-										"SecondContestant_Accumulative_SetPoints":2,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[11,8,7],
+										"firstContestantAccumulativeSetPoints":0,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[10,10,9],
+										"secondContestantAccumulativeSetPoints":2,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":2,
-										"FirstContestant_Arrows":[9,9,9],
-										"FirstContestant_Accumulative_SetPoints":2,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[9,8,8],
-										"SecondContestant_Accumulative_SetPoints":2,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[9,9,9],
+										"firstContestantAccumulativeSetPoints":2,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[9,8,8],
+										"secondContestantAccumulativeSetPoints":2,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":3,
-										"FirstContestant_Arrows":[9,9,9],
-										"FirstContestant_Accumulative_SetPoints":4,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[9,8,6],
-										"SecondContestant_Accumulative_SetPoints":2,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[9,9,9],
+										"firstContestantAccumulativeSetPoints":4,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[9,8,6],
+										"secondContestantAccumulativeSetPoints":2,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":4,
-										"FirstContestant_Arrows":[9,9,9],
-										"FirstContestant_Accumulative_SetPoints":6,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[10,8,7],
-										"SecondContestant_Accumulative_SetPoints":2,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[9,9,9],
+										"firstContestantAccumulativeSetPoints":6,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[10,8,7],
+										"secondContestantAccumulativeSetPoints":2,
+										"secondContestantSetPoints":0
 									}
 								]
 							},
@@ -3389,30 +3389,30 @@
 								"Scores":[
 									{
 										"SetNumber":1,
-										"FirstContestant_Arrows":[9,8,8],
-										"FirstContestant_Accumulative_SetPoints":2,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[8,8,8],
-										"SecondContestant_Accumulative_SetPoints":0,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[9,8,8],
+										"firstContestantAccumulativeSetPoints":2,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[8,8,8],
+										"secondContestantAccumulativeSetPoints":0,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":2,
-										"FirstContestant_Arrows":[10,9,8],
-										"FirstContestant_Accumulative_SetPoints":4,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[9,9,6],
-										"SecondContestant_Accumulative_SetPoints":0,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[10,9,8],
+										"firstContestantAccumulativeSetPoints":4,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[9,9,6],
+										"secondContestantAccumulativeSetPoints":0,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":3,
-										"FirstContestant_Arrows":[9,9,8],
-										"FirstContestant_Accumulative_SetPoints":6,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[10,8,7],
-										"SecondContestant_Accumulative_SetPoints":0,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[9,9,8],
+										"firstContestantAccumulativeSetPoints":6,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[10,8,7],
+										"secondContestantAccumulativeSetPoints":0,
+										"secondContestantSetPoints":0
 									}
 								]
 							},
@@ -3422,48 +3422,48 @@
 								"Scores":[
 									{
 										"SetNumber":1,
-										"FirstContestant_Arrows":[10,8,6],
-										"FirstContestant_Accumulative_SetPoints":2,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[8,7,7],
-										"SecondContestant_Accumulative_SetPoints":0,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[10,8,6],
+										"firstContestantAccumulativeSetPoints":2,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[8,7,7],
+										"secondContestantAccumulativeSetPoints":0,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":2,
-										"FirstContestant_Arrows":[11,9,9],
-										"FirstContestant_Accumulative_SetPoints":4,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[9,9,7],
-										"SecondContestant_Accumulative_SetPoints":0,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[11,9,9],
+										"firstContestantAccumulativeSetPoints":4,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[9,9,7],
+										"secondContestantAccumulativeSetPoints":0,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":3,
-										"FirstContestant_Arrows":[9,8,8],
-										"FirstContestant_Accumulative_SetPoints":4,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[11,9,9],
-										"SecondContestant_Accumulative_SetPoints":2,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[9,8,8],
+										"firstContestantAccumulativeSetPoints":4,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[11,9,9],
+										"secondContestantAccumulativeSetPoints":2,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":4,
-										"FirstContestant_Arrows":[9,8,6],
-										"FirstContestant_Accumulative_SetPoints":4,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[9,9,8],
-										"SecondContestant_Accumulative_SetPoints":4,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[9,8,6],
+										"firstContestantAccumulativeSetPoints":4,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[9,9,8],
+										"secondContestantAccumulativeSetPoints":4,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":5,
-										"FirstContestant_Arrows":[10,9,7],
-										"FirstContestant_Accumulative_SetPoints":4,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[10,9,8],
-										"SecondContestant_Accumulative_SetPoints":6,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[10,9,7],
+										"firstContestantAccumulativeSetPoints":4,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[10,9,8],
+										"secondContestantAccumulativeSetPoints":6,
+										"secondContestantSetPoints":2
 									}
 								]
 							},
@@ -3473,48 +3473,48 @@
 								"Scores":[
 									{
 										"SetNumber":1,
-										"FirstContestant_Arrows":[11,8,7],
-										"FirstContestant_Accumulative_SetPoints":1,
-										"FirstContestant_SetPoints":1,
-										"SecondContestant_Arrows":[9,8,8],
-										"SecondContestant_Accumulative_SetPoints":1,
-										"SecondContestant_SetPoints":1
+										"firstContestantArrows":[11,8,7],
+										"firstContestantAccumulativeSetPoints":1,
+										"firstContestantSetPoints":1,
+										"secondContestantArrows":[9,8,8],
+										"secondContestantAccumulativeSetPoints":1,
+										"secondContestantSetPoints":1
 									},
 									{
 										"SetNumber":2,
-										"FirstContestant_Arrows":[9,8,7],
-										"FirstContestant_Accumulative_SetPoints":1,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[9,9,8],
-										"SecondContestant_Accumulative_SetPoints":3,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[9,8,7],
+										"firstContestantAccumulativeSetPoints":1,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[9,9,8],
+										"secondContestantAccumulativeSetPoints":3,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":3,
-										"FirstContestant_Arrows":[11,8,7],
-										"FirstContestant_Accumulative_SetPoints":3,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[8,7,7],
-										"SecondContestant_Accumulative_SetPoints":3,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[11,8,7],
+										"firstContestantAccumulativeSetPoints":3,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[8,7,7],
+										"secondContestantAccumulativeSetPoints":3,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":4,
-										"FirstContestant_Arrows":[9,8,6],
-										"FirstContestant_Accumulative_SetPoints":3,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[11,9,9],
-										"SecondContestant_Accumulative_SetPoints":5,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[9,8,6],
+										"firstContestantAccumulativeSetPoints":3,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[11,9,9],
+										"secondContestantAccumulativeSetPoints":5,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":5,
-										"FirstContestant_Arrows":[9,9,9],
-										"FirstContestant_Accumulative_SetPoints":4,
-										"FirstContestant_SetPoints":1,
-										"SecondContestant_Arrows":[10,9,8],
-										"SecondContestant_Accumulative_SetPoints":6,
-										"SecondContestant_SetPoints":1
+										"firstContestantArrows":[9,9,9],
+										"firstContestantAccumulativeSetPoints":4,
+										"firstContestantSetPoints":1,
+										"secondContestantArrows":[10,9,8],
+										"secondContestantAccumulativeSetPoints":6,
+										"secondContestantSetPoints":1
 									}
 								]
 							}
@@ -3529,48 +3529,48 @@
 								"Scores":[
 									{
 										"SetNumber":1,
-										"FirstContestant_Arrows":[9,8,8],
-										"FirstContestant_Accumulative_SetPoints":1,
-										"FirstContestant_SetPoints":1,
-										"SecondContestant_Arrows":[9,8,8],
-										"SecondContestant_Accumulative_SetPoints":1,
-										"SecondContestant_SetPoints":1
+										"firstContestantArrows":[9,8,8],
+										"firstContestantAccumulativeSetPoints":1,
+										"firstContestantSetPoints":1,
+										"secondContestantArrows":[9,8,8],
+										"secondContestantAccumulativeSetPoints":1,
+										"secondContestantSetPoints":1
 									},
 									{
 										"SetNumber":2,
-										"FirstContestant_Arrows":[10,10,7],
-										"FirstContestant_Accumulative_SetPoints":3,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[9,9,8],
-										"SecondContestant_Accumulative_SetPoints":1,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[10,10,7],
+										"firstContestantAccumulativeSetPoints":3,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[9,9,8],
+										"secondContestantAccumulativeSetPoints":1,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":3,
-										"FirstContestant_Arrows":[10,8,8],
-										"FirstContestant_Accumulative_SetPoints":3,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[10,9,8],
-										"SecondContestant_Accumulative_SetPoints":3,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[10,8,8],
+										"firstContestantAccumulativeSetPoints":3,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[10,9,8],
+										"secondContestantAccumulativeSetPoints":3,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":4,
-										"FirstContestant_Arrows":[10,8,8],
-										"FirstContestant_Accumulative_SetPoints":3,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[10,9,8],
-										"SecondContestant_Accumulative_SetPoints":5,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[10,8,8],
+										"firstContestantAccumulativeSetPoints":3,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[10,9,8],
+										"secondContestantAccumulativeSetPoints":5,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":5,
-										"FirstContestant_Arrows":[8,8,5],
-										"FirstContestant_Accumulative_SetPoints":3,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[9,9,8],
-										"SecondContestant_Accumulative_SetPoints":7,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[8,8,5],
+										"firstContestantAccumulativeSetPoints":3,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[9,9,8],
+										"secondContestantAccumulativeSetPoints":7,
+										"secondContestantSetPoints":2
 									}
 								]
 							},
@@ -3580,30 +3580,30 @@
 								"Scores":[
 									{
 										"SetNumber":1,
-										"FirstContestant_Arrows":[9,9,7],
-										"FirstContestant_Accumulative_SetPoints":0,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[11,9,8],
-										"SecondContestant_Accumulative_SetPoints":2,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[9,9,7],
+										"firstContestantAccumulativeSetPoints":0,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[11,9,8],
+										"secondContestantAccumulativeSetPoints":2,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":2,
-										"FirstContestant_Arrows":[9,8,6],
-										"FirstContestant_Accumulative_SetPoints":0,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[11,9,9],
-										"SecondContestant_Accumulative_SetPoints":4,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[9,8,6],
+										"firstContestantAccumulativeSetPoints":0,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[11,9,9],
+										"secondContestantAccumulativeSetPoints":4,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":3,
-										"FirstContestant_Arrows":[9,8,7],
-										"FirstContestant_Accumulative_SetPoints":0,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[10,9,8],
-										"SecondContestant_Accumulative_SetPoints":6,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[9,8,7],
+										"firstContestantAccumulativeSetPoints":0,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[10,9,8],
+										"secondContestantAccumulativeSetPoints":6,
+										"secondContestantSetPoints":2
 									}
 								]
 							}
@@ -3618,48 +3618,48 @@
 								"Scores":[
 									{
 										"SetNumber":1,
-										"FirstContestant_Arrows":[11,10,9],
-										"FirstContestant_Accumulative_SetPoints":2,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[9,9,7],
-										"SecondContestant_Accumulative_SetPoints":0,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[11,10,9],
+										"firstContestantAccumulativeSetPoints":2,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[9,9,7],
+										"secondContestantAccumulativeSetPoints":0,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":2,
-										"FirstContestant_Arrows":[10,10,8],
-										"FirstContestant_Accumulative_SetPoints":3,
-										"FirstContestant_SetPoints":1,
-										"SecondContestant_Arrows":[10,9,9],
-										"SecondContestant_Accumulative_SetPoints":1,
-										"SecondContestant_SetPoints":1
+										"firstContestantArrows":[10,10,8],
+										"firstContestantAccumulativeSetPoints":3,
+										"firstContestantSetPoints":1,
+										"secondContestantArrows":[10,9,9],
+										"secondContestantAccumulativeSetPoints":1,
+										"secondContestantSetPoints":1
 									},
 									{
 										"SetNumber":3,
-										"FirstContestant_Arrows":[11,9,9],
-										"FirstContestant_Accumulative_SetPoints":5,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[11,9,8],
-										"SecondContestant_Accumulative_SetPoints":1,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[11,9,9],
+										"firstContestantAccumulativeSetPoints":5,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[11,9,8],
+										"secondContestantAccumulativeSetPoints":1,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":4,
-										"FirstContestant_Arrows":[9,9,6],
-										"FirstContestant_Accumulative_SetPoints":5,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[9,9,9],
-										"SecondContestant_Accumulative_SetPoints":3,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[9,9,6],
+										"firstContestantAccumulativeSetPoints":5,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[9,9,9],
+										"secondContestantAccumulativeSetPoints":3,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":5,
-										"FirstContestant_Arrows":[10,9,8],
-										"FirstContestant_Accumulative_SetPoints":7,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[9,8,7],
-										"SecondContestant_Accumulative_SetPoints":3,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[10,9,8],
+										"firstContestantAccumulativeSetPoints":7,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[9,8,7],
+										"secondContestantAccumulativeSetPoints":3,
+										"secondContestantSetPoints":0
 									}
 								]
 							}
@@ -3674,48 +3674,48 @@
 								"Scores":[
 									{
 										"SetNumber":1,
-										"FirstContestant_Arrows":[9,8,10],
-										"FirstContestant_Accumulative_SetPoints":0,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[10,9,10],
-										"SecondContestant_Accumulative_SetPoints":2,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[9,8,10],
+										"firstContestantAccumulativeSetPoints":0,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[10,9,10],
+										"secondContestantAccumulativeSetPoints":2,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":2,
-										"FirstContestant_Arrows":[9,8,10],
-										"FirstContestant_Accumulative_SetPoints":2,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[10,9,7],
-										"SecondContestant_Accumulative_SetPoints":2,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[9,8,10],
+										"firstContestantAccumulativeSetPoints":2,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[10,9,7],
+										"secondContestantAccumulativeSetPoints":2,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":3,
-										"FirstContestant_Arrows":[9,8,10],
-										"FirstContestant_Accumulative_SetPoints":4,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[9,9,8],
-										"SecondContestant_Accumulative_SetPoints":2,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[9,8,10],
+										"firstContestantAccumulativeSetPoints":4,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[9,9,8],
+										"secondContestantAccumulativeSetPoints":2,
+										"secondContestantSetPoints":0
 									},
 									{
 										"SetNumber":4,
-										"FirstContestant_Arrows":[10,9,8],
-										"FirstContestant_Accumulative_SetPoints":4,
-										"FirstContestant_SetPoints":0,
-										"SecondContestant_Arrows":[9,9,10],
-										"SecondContestant_Accumulative_SetPoints":4,
-										"SecondContestant_SetPoints":2
+										"firstContestantArrows":[10,9,8],
+										"firstContestantAccumulativeSetPoints":4,
+										"firstContestantSetPoints":0,
+										"secondContestantArrows":[9,9,10],
+										"secondContestantAccumulativeSetPoints":4,
+										"secondContestantSetPoints":2
 									},
 									{
 										"SetNumber":5,
-										"FirstContestant_Arrows":[9,9,10],
-										"FirstContestant_Accumulative_SetPoints":6,
-										"FirstContestant_SetPoints":2,
-										"SecondContestant_Arrows":[9,8,10],
-										"SecondContestant_Accumulative_SetPoints":4,
-										"SecondContestant_SetPoints":0
+										"firstContestantArrows":[9,9,10],
+										"firstContestantAccumulativeSetPoints":6,
+										"firstContestantSetPoints":2,
+										"secondContestantArrows":[9,8,10],
+										"secondContestantAccumulativeSetPoints":4,
+										"secondContestantSetPoints":0
 									}
 								]
 							}
@@ -3724,7 +3724,7 @@
 				]
 			},
 		],
-		"TeamEntry":[
+		"TeamRoundEntries":[
 
 		],
 		"Category": "Other International Event"
